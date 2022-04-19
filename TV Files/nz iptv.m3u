@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,raw-tv.m3u8
+#EXTVLCOPT:network-caching=1000
+http://i.mjh.nz/nz/raw-tv.m3u8
+#EXTINF:0,raw-tv.m3u8
+#EXTVLCOPT:network-caching=1000
+http://i.mjh.nz/nz/raw-tv.m3u8
